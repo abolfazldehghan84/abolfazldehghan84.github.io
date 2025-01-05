@@ -7,14 +7,14 @@ tags: formatting code
 categories: sample-posts
 featured: true
 ---
-this is cpp code!
+
+This is an example of C++ code!
 
 ```cpp
-# include <iosteam>
-using namepace std;
-int main ()
-{
-cout << "hellow milad" ;
-return 0 ;
+#include <iostream>
+using namespace std;
+
+int main() {
+    cout << "Hello Milad";
+    return 0;
 }
-```
