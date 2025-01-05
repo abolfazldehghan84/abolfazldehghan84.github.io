@@ -112,9 +112,9 @@ ninja.data = [{
             },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
           title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
           description: "",
-          section: "News",},{id: "projects-bear",
-          title: 'bear',
-          description: "some information about bear",
+          section: "News",},{id: "projects-torchat",
+          title: 'TorChat',
+          description: "«This text has been copied» rivacy centered chatting application that utilises the Tor Network to send and recieve messages and data.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/bear/";
             },},{id: "projects-lion",
