@@ -4,7 +4,7 @@
 layout: page
 title: bear
 description: some information about bear
-img: assets/img
+img: assets/img/bear.jpg
 importance: 1
 category: work
 related_publications: false
