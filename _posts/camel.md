@@ -3,15 +3,14 @@ layout: post
 title: camels
 date: 2025-01-05
 description: about camels
-tags: facts of camels
+tags: ["facts", "camels"]
 related_posts: false
 ---
-
 
 Here are some interesting and short facts about camels:
 
 1. **Heat Tolerance:** Camels can withstand extremely high temperatures, up to 50°C (122°F).
-
+   
 2. **Minimal Water Needs:** Camels can survive without water for extended periods, up to two weeks.
 
 3. **Humps:** Camels have humps that store fat, not water as commonly believed.
