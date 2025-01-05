@@ -4,7 +4,6 @@ title: camels
 date: 2025-01-05
 description: about cammels
 tags:facts of cammel
-categories: sample-posts
 related_posts: false
 ---
 
