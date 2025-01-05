@@ -122,9 +122,9 @@ ninja.data = [{
           description: "«This text has been copied» a workflow to generate beautiful thesis pdfs from scrivener markdown.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/lion/";
-            },},{id: "projects-tiger",
-          title: 'tiger',
-          description: "some information about tiger",
+            },},{id: "projects-corruption",
+          title: 'Corruption',
+          description: "«This text has been copied» A javascript game in which you roam around the game&#39;s own code, killing viruses and eating yin-yangs.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/tiger/";
             },},{
