@@ -2,8 +2,8 @@
 layout: post
 title: camels
 date: 2025-01-05
-description: about cammels
-tags:facts of cammel
+description: about camels
+tags: facts of camels
 related_posts: false
 ---
 
