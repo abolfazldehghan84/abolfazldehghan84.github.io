@@ -117,9 +117,9 @@ ninja.data = [{
           description: "«This text has been copied» rivacy centered chatting application that utilises the Tor Network to send and recieve messages and data.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/bear/";
-            },},{id: "projects-lion",
-          title: 'lion',
-          description: "some information about lion",
+            },},{id: "projects-scrivener-latex",
+          title: 'Scrivener  Latex',
+          description: "«This text has been copied» a workflow to generate beautiful thesis pdfs from scrivener markdown.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/lion/";
             },},{id: "projects-tiger",
