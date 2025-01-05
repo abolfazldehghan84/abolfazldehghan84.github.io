@@ -1,15 +1,13 @@
 ---
 layout: page
-title: bear
-description: some information about bear
-img: assets/img/bear.jpg
+title: TorChat
+description: «This text has been copied» rivacy centered chatting application that utilises the Tor Network to send and recieve messages and data.
+img: assets/img/torChat.jpg
 importance: 1
-category: animal
+category: work
 related_publications: false
 ---
 
-Bears are carnivoran mammals of the family Ursidae (/ˈɜːrsɪdiː, -daɪ/). They are classified as caniforms, or doglike carnivorans. Although only eight species of bears are extant, they are widespread, appearing in a wide variety of habitats throughout most of the Northern Hemisphere and partially in the Southern Hemisphere. Bears are found on the continents of North America, South America, and Eurasia. Common characteristics of modern bears include large bodies with stocky legs, long snouts, small rounded ears, shaggy hair, plantigrade paws with five nonretractile claws, and short tails.
+A chatting web application where all the messages are routed through The Onion Routing (TOR) service. Each user can talk anonymously to anyone. Every user’s display name is also randomized to ensure that users do not risk their privacy by keeping their real name. Messages are auto-deleted upon refresh; thus no information is stored at the server-side. Chat rooms can be created, and the code can be shared to chat with known people but with their messages being routed through the TOR service.
 
-While the polar bear is mostly carnivorous, and the giant panda is mostly herbivorous, the remaining six species are omnivorous with varying diets. With the exception of courting individuals and mothers with their young, bears are typically solitary animals. They may be diurnal or nocturnal and have an excellent sense of smell. Despite their heavy build and awkward gait, they are adept runners, climbers, and swimmers. Bears use shelters, such as caves and logs, as their dens; most species occupy their dens during the winter for a long period of hibernation, up to 100 days.
-
-Bears have been hunted since prehistoric times for their meat and fur; they have also been used for bear-baiting and other forms of entertainment, such as being made to dance. With their powerful physical presence, they play a prominent role in the arts, mythology, and other cultural aspects of various human societies. In modern times, bears have come under pressure through encroachment on their habitats and illegal trade in bear parts, including the Asian bile bear market. The IUCN lists six bear species as vulnerable or endangered, and even least concern species, such as the brown bear, are at risk of extirpation in certain countries. The poaching and international trade of these most threatened populations are prohibited, but still ongoing.
+("This text has been copied")[reference](https://veedata.github.io/projects/TorChat/)
