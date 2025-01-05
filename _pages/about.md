@@ -6,7 +6,7 @@ subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
 
 profile:
   align: right
-  image: {https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRjeIzjsCDqtRv3HROXfbE-Vv3hmMDXF_9zB0XiNTQNOVgC85zQUot2kw2fKnkWLFBqbr1cN2TZUhoL0IP3uaEYTj3RLU0maIRocy6jaaI_}.jpg
+  image: ![dsdsd](https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRjeIzjsCDqtRv3HROXfbE-Vv3hmMDXF_9zB0XiNTQNOVgC85zQUot2kw2fKnkWLFBqbr1cN2TZUhoL0IP3uaEYTj3RLU0maIRocy6jaaI_.jpg)
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>Rajai street</p>
