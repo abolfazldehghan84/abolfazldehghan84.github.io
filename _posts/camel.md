@@ -12,7 +12,7 @@ In the name of Allah.
 
 merge sort with c programming language:
 
-```c++
+```cpp
 
 // C program for Merge Sort 
 #include <stdio.h> 
