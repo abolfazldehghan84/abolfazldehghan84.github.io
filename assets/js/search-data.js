@@ -122,6 +122,11 @@ ninja.data = [{
           description: "some information about lion",
           section: "Projects",handler: () => {
               window.location.href = "/projects/lion/";
+            },},{id: "projects-tiger",
+          title: 'tiger',
+          description: "some information about tiger",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/tiger/";
             },},{
         id: 'social-email',
         title: 'email',
